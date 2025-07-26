@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9398","test_add_products_and_checkout","tests","Sat Jul 26 22:24:00 GMT+07:00 2025","passed","Sat Jul 26 22:24:09 GMT+07:00 2025","TestCheckout","test_checkout","",""
+"","6082","test_valid_login","tests","Sat Jul 26 22:24:15 GMT+07:00 2025","passed","Sat Jul 26 22:24:21 GMT+07:00 2025","TestLogin","test_login","",""
