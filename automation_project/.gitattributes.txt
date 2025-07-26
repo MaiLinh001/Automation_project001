@@ -1,0 +1,9 @@
+*.py linguist-language=Python
+*.json linguist-language=Python
+/reports/* linguist-vendored
+/.venv/* linguist-vendored
+allure-results/* linguist-vendored
+allure-report/* linguist-vendored
+node_modules/* linguist-vendored
+pytest_cache/* linguist-vendored
+__pycache__/* linguist-vendored
